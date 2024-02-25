@@ -1,0 +1,48 @@
+/* Scaffolding for the page layout */
+
+.site {
+  display: flex;
+  min-height: calc(100vh - 16px);
+  flex-direction: column;
+  border: 10px solid var(--bgDark);
+}
+
+.siteHeader {
+  background-color: var(--bgDark);
+  color: var(--textLight);
+  padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.siteContent {
+  flex: 1;
+  margin: 1rem 0 2rem 0;
+}
+
+.siteFooter {
+  border-top: 5px solid var(--bgDark);
+  padding: 1rem 1rem 1rem 1rem;
+}
+
+.responsiveContentWrapper {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Stuff inside siteHeader and siteFooter */
+
+.siteTitle > a {
+  color: #40c463;
+}
+
+.siteTitle > a:hover {
+  color: var(--textLight);
+}
+
+.siteFooter a {
+  color: var(--textDark);
+}
+
+.siteFooter a:hover {
+  color: var(--link);
+}
