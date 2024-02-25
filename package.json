@@ -3,7 +3,7 @@
   "author": "elisabethirgens",
   "scripts": {
     "start": "npx @11ty/eleventy --serve --watch",
-    "build": "rm -rf ./_site && npx @11ty/eleventy"
+    "build": "rm -rf ./_site && npx @11ty/eleventy --pathprefix=booster2024-git-workshop"
   },
   "devDependencies": {
     "@11ty/eleventy": "2.0.1"
