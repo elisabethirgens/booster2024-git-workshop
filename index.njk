@@ -3,4 +3,16 @@ layout: main.njk
 ---
 
 <h1>Choose your own command line Git adventure</h1>
-<div>hello world</div>
+
+<p>Some ideas for directions you can take. Help add more adventures!</p>
+
+<!-- Create randomized adventure entrances on front page-->
+<nav>
+  {%- for adventure in collections.randomizedAdventures -%}
+  <div class="adventure">
+    <a href="{{ adventure.url | url }}">
+      {{ adventure.data.title }}
+    </a>
+  </div>
+  {%- endfor -%}
+</nav>

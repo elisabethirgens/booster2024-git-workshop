@@ -12,3 +12,20 @@
   --link: #0867ba;
   --variableFontBold: 666;
 }
+
+.adventure {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: inline-flex;
+}
+
+.adventure > a {
+  padding: 1rem 2rem;
+  background-color: whitesmoke;
+  font-size: 1.5rem;
+  color: var(--textDark);
+}
+
+.adventure > a:hover {
+  background-color: silver;
+}
