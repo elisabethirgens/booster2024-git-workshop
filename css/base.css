@@ -55,3 +55,25 @@ blockquote {
   padding-right: 2rem;
   margin: 0 0 1.5rem 1rem;
 }
+
+pre,
+code {
+  font-family: ui-monospace, monospace;
+  font-size: 0.9375rem;
+  background-color: var(--bgLight);
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre > code {
+  padding-right: 0;
+  padding-left: 0;
+}
