@@ -43,7 +43,7 @@ a:hover {
 
 hr {
   border: 0;
-  border-top: 4px solid #ddd;
+  border-top: 4px solid var(--bgDark);
   margin: 2.5rem 0 2rem 0;
 }
 
