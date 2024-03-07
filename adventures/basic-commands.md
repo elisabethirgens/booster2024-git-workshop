@@ -26,7 +26,7 @@ But for me, this limited workflow also turned into a plateau where I was stuck.
 - First grasp the basic commands needed for making contributions to a repo
 - and then go figure out how to move past that plateau to learn more!
 
-I hope you will [find many adventures](/) on that mission 🚀
+I hope you will [find many adventures](../) on that mission 🚀
 
 ---
 
