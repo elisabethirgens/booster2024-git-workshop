@@ -29,8 +29,13 @@ It is possible to use the tool `git` alone on your own laptop. But Git is more f
 
 - Create your account on [github.com/signup](https://github.com/signup)
 
-## You know that Git installed
+## Your laptop has Git installed
 
 - Run `git --version` to verify that you have Git installed
 
 If you don’t have Git installed on macOS, that command may prompt you to install **Xcode Command Line Tools** which will do the job. Or if this command gives you an error message: ask either the internet or someone next to you about how to install Git on your machine.
+
+## You can clone
+
+- http or ssh?
+- `ssh -T git@github.com` to verify a connection to GitHub
