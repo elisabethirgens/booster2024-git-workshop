@@ -10,3 +10,9 @@ Have you noticed that GitHub will automatically add a green label ‘verified’
 You can also sign commits that are made locally on your machine.
 
 [docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+
+See also…
+
+<div class="adventure">
+  <a href="../config-git/">Config your Git&emsp;⚙️</a>
+</div>
