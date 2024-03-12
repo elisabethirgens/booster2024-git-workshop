@@ -33,6 +33,9 @@ See also…
 <div class="adventure">
   <a href="../restore/">restore files&emsp;🗂️</a>
 </div>
+<div class="adventure">
+  <a href="../branch/">branch&emsp;🌳</a>
+</div>
 
 ---
 

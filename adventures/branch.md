@@ -68,3 +68,9 @@ And if I’m absolutely certain I have no local commits I want to keep, I can re
 ```
 git branch -h
 ```
+
+See also…
+
+<div class="adventure">
+  <a href="../switch/">switch&emsp;🎛️</a>
+</div>
