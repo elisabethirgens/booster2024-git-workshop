@@ -13,6 +13,30 @@
   --variableFontBold: 666;
 }
 
+.introWrapper {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.introNav {
+  display: inline-block;
+  max-width: 38rem;
+  margin-bottom: 2rem;
+}
+
+.introQuote {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 42rem;
+  text-align: center;
+}
+
+.introQuote > blockquote {
+  border-left: 0;
+  padding: 0;
+  margin-left: 0;
+}
+
 .adventure {
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;

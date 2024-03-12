@@ -3,18 +3,43 @@ layout: main.njk
 title: frontpage
 ---
 
-<h1>Choose your own command line Git adventure</h1>
+<h1 class="frontpageTitle">Choose your own command line Git adventure</h1>
 
-<!-- Create promoted adventure entrances at the top of the front page-->
-<nav>
-  {%- for adventure in collections.promotedAdventures -%}
-  <div class="adventure">
-    <a href="{{ adventure.url | url }}">
-      {{ adventure.data.title }}
-    </a>
+<div class="introWrapper">
+  <!-- Create promoted adventure entrances at the top of the front page-->
+  <nav class="introNav">
+    {%- for adventure in collections.promotedAdventures -%}
+    <div class="adventure">
+      <a href="{{ adventure.url | url }}">
+        {{ adventure.data.title }}
+      </a>
+    </div>
+    {%- endfor -%}
+  </nav>
+
+  <div class="introQuote">
+    <p>
+      Let’s practice Git together! Why? Let me quote this blogpost from
+      GitHub<br />
+      <a
+        href="https://github.blog/2022-06-30-write-better-commits-build-better-projects/"
+      >
+        Write Better Commits, Build Better Projects
+      </a>
+      that describes this really well:
+    </p>
+    <blockquote>
+      “High-quality Git commits are the key to a maintainable and collaborative
+      (…) project.”
+    </blockquote>
+    <blockquote>
+      “Commits are a firsthand historical record of exactly how and why each
+      line of code came to be. They even come with human-readable messages! As a
+      result, a repository’s commit history is the best tool a developer can use
+      to explain and understand code.”
+    </blockquote>
   </div>
-  {%- endfor -%}
-</nav>
+</div>
 
 <!-- Create randomized adventure entrances on front page-->
 <nav>
