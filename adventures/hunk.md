@@ -9,7 +9,7 @@ The name of this concept is [hilarious](https://www.merriam-webster.com/dictiona
 
 > Learning this also came with a better understanding of staging. This has previously just been a step I go though, without it meaning much. And wow, I can now stop worrying about making multiple unrelated changes — because I know how to create clean commits out of it all.
 
-- Make some small changes in perhaps 3-4 different files to try this out
+- Make small changes in perhaps 3-4 different files to try this out
 
 ```
 # Use the interactive mode to select hunks to add
@@ -17,7 +17,7 @@ The name of this concept is [hilarious](https://www.merriam-webster.com/dictiona
 git add --patch
 ```
 
-- Select some with `y` for yes, and try also `n` for no
+- Select some changes with `y` for yes, and try also `n` for no
 - If you now commit, that will be with only the changes selected with yes
 
 ```

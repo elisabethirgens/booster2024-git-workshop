@@ -5,7 +5,7 @@ tags: adventure
 
 # branch 🌳
 
-Often I see people have workflows involving a shortcut for common Git operations, and that can be useful. But I also think learning those shortcuts _first_ can stand in the way of understanding the basics of a command like `branch` — and the all the different options the command has.
+Often I see people have workflows involving a shortcut for common Git operations, and that can be useful. But I also think learning those shortcuts _first_ can stand in the way of understanding the basics of a command like `branch` — and all the different options the command has.
 
 ```
 # List branches

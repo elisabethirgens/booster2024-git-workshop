@@ -27,6 +27,9 @@ See also…
 <div class="adventure">
   <a href="../switch/">switch branches&emsp;🎛️</a>
 </div>
+<div class="adventure">
+  <a href="../hunk/">hunk&emsp;🥰</a>
+</div>
 
 ---
 
