@@ -1,6 +1,6 @@
 ---
 title: Grasp your basic commands first 👈
-tags: adventure
+tags: promotedAdventure
 ---
 
 # Grasp your basic commands first 👈

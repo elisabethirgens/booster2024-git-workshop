@@ -1,6 +1,6 @@
 ---
 title: The fundamentals 🌱
-tags: adventure
+tags: promotedAdventure
 ---
 
 # The fundamentals 🌱

@@ -1,6 +1,6 @@
 ---
 title: Ready for your first Git interactive rebase?
-tags: adventure
+tags: promotedAdventure
 ---
 
 # Ready for your first Git interactive rebase?
