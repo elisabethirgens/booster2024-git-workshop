@@ -5,7 +5,7 @@ tags: adventure
 
 # which / version
 
-There are many ways to install Git on your laptop. It can be helpful to be familiar with exactly how Git is installed on your laptop, and which version you are using. Perhaps you can update?
+There are many ways to install Git on your laptop. (Check out the guide below!) It can be helpful to be familiar with exactly how Git is installed on your laptop. It can be installed by your OS, perhaps by Homebrew or something else. And perhaps you can update?
 
 - Find out `which git` you are using
 - Does `git --version` show that you are using the latest version `2.44`?
