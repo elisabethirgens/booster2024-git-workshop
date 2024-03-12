@@ -23,6 +23,10 @@
   padding: 1rem 1rem 1rem 1rem;
 }
 
+.frontpageWrapper {
+  padding: 0 1rem;
+}
+
 .responsiveContentWrapper {
   max-width: 48rem;
   margin: 0 auto;

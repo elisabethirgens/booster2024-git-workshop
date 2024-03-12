@@ -18,9 +18,15 @@
     </header>
 
     <main class="siteContent">
+      {% if title === "frontpage" %}
+      <div class="frontpageWrapper">
+        {{ content | safe }}
+      </div>
+      {% else %}
       <div class="responsiveContentWrapper">
         {{ content | safe }}
       </div>
+      {% endif %}
     </main>
 
     <footer class="siteFooter">
