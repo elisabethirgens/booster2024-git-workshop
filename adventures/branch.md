@@ -5,6 +5,8 @@ tags: adventure
 
 # branch 🌳
 
+Often I see people have workflows involving a shortcut for common Git operations, and that can be useful. But I also think learning those shortcuts _first_ can stand in the way of understanding the basics of a command like `branch` — and the all the different options the command has.
+
 ```
 # List branches
 
@@ -13,6 +15,12 @@ git branch --verbose
 git branch --merged
 git branch --no-merged
 git branch --sort=committerdate
+```
+
+```
+# Create a new branch
+
+git branch name-of-your-new-branch
 ```
 
 ```
@@ -35,6 +43,7 @@ git branch --move new-branch-name
 
 ```
 # Delete all local branches that are fully merged
+
 git branch | grep --invert-match "main" | xargs git branch -d
 ```
 
@@ -52,4 +61,10 @@ And if I’m absolutely certain I have no local commits I want to keep, I can re
 ```
 -d, --delete          delete fully merged branch
 -D                    delete branch (even if not merged)
+```
+
+## But wait, there’s more!
+
+```
+git branch -h
 ```
