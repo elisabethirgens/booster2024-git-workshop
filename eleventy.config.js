@@ -3,10 +3,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addCollection("promotedAdventures", function (collection) {
     return collection.getFilteredByTag("promotedAdventure");
   });
-  eleventyConfig.addCollection("randomizedAdventures", function (collection) {
-    return collection.getFilteredByTag("adventure").sort(() => {
-      return 0.5 - Math.random();
-    });
+  eleventyConfig.addCollection("adventures", function (collection) {
+    return collection.getFilteredByTag("adventure");
   });
   return {
     pathPrefix: "/booster2024-git-workshop/",

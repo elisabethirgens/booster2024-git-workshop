@@ -43,7 +43,8 @@ title: frontpage
 
 <!-- Create randomized adventure entrances on front page-->
 <nav>
-  {%- for adventure in collections.randomizedAdventures -%}
+  {%- for adventure in collections.adventures | sort(false, false,
+  "data.title")-%}
   <div class="adventure">
     <a href="{{ adventure.url | url }}">
       {{ adventure.data.title }}
