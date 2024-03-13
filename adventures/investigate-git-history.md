@@ -12,6 +12,8 @@ The code base is a crime scene and you are the detective.
 Try these examples to investigate this repo, where I have taken extra care to leave some context for the commits in the commit messages…
 
 - `git log adventures/checkout.md`
+Try these examples to investigate the Eleventy config of this repo, where I have taken extra care to leave some context for the commits in the commit messages…
+
 - `git blame eleventy.config.js`
 - `git show 16cb3ac6 72ae99dc --quiet`
 - `git log eleventy.config.js`

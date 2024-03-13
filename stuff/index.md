@@ -4,9 +4,16 @@ layout: main.njk
 
 <h1>this is a playground</h1>
 
-okay so the entire repo is a playground
+<h2>Hei Torbis</h2>
 
-really! go forth, change things and make a mess!
+<<<<<<< HEAD
+<h2>Ny endring</h2>
+
+=======
+>>>>>>> 391ab28 (Merge confilict fixed)
+okay so the entire repo is a playground T was here
+
+really. go forth, change things and make a mess.
 
 but in case you find it easier to goof around
 somewhere explicitly marked playground
@@ -21,3 +28,5 @@ somewhere explicitly marked playground
 - add more adventures about Git
 
 ## This in an emoji :thumbsup:
+
+T was here

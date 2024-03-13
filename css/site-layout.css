@@ -7,6 +7,10 @@
   border: 10px solid var(--bgDark);
 }
 
+.blabla {
+  display: contents;
+}
+
 .siteHeader {
   background-color: var(--bgDark);
   color: var(--textLight);
