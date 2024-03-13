@@ -1,5 +1,5 @@
 ---
-title: 🎩
+title: HEAD 🎩
 tags: adventure
 ---
 

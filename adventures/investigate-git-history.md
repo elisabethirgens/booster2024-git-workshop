@@ -1,5 +1,5 @@
 ---
-title: Investigate Git history
+title: Investigate Git history 🕵️
 tags: adventure
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: 🍒
+title: cherry-pick 🍒
 tags: adventure
 ---
 
-# git cherry-pick 🍒
+# cherry-pick 🍒
 
 Once in a blue moon, I want to pick a commit from one branch and apply it to another branch. This might not be the most useful command ever, but can be fun to know about.
 
