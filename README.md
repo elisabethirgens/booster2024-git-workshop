@@ -8,7 +8,7 @@
 
 https://elisabethirgens.github.io/booster2024-git-workshop/
 
-also: say hi with a comment [on this issue](https://github.com/elisabethirgens/booster2024-git-workshop/issues/1) and I will add you as a contributor to this repo
+- Say hi with a comment [on this issue](https://github.com/elisabethirgens/booster2024-git-workshop/issues/1) and I will add you as a contributor to this repo
 
 ## Run locally (optional!)
 
