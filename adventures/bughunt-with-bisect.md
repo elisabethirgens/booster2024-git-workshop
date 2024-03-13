@@ -1,9 +1,9 @@
 ---
-title: bisect bughunt
+title: Bughunt with bisect 🐛
 tags: adventure
 ---
 
-# Use bisect to find bugs 🐛
+# Bughunt with bisect 🐛
 
 > Use binary search to find the commit that introduced a bug
 
