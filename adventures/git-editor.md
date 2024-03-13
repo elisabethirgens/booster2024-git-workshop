@@ -1,9 +1,9 @@
 ---
-title: Know your Git editor
+title: Know your Git editor 🧐
 tags: adventure
 ---
 
-# Know your Git editor
+# Know your Git editor 🧐
 
 A common hurdle to learning Git operations like interactive rebase, or writing great commit messages with documentation, is a small setting that chooses an editor for Git. The day you aim to level up with running certain types of Git commands — it’s super helpful to first make sure you understand which editor you have told Git use.
 
