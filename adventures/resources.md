@@ -1,9 +1,9 @@
 ---
-title: Resources
+title: Resources 📚
 tags: adventure
 ---
 
-# Resources
+# Resources 📚
 
 There are so very many things to read about Git on the internet, but these are some of my favourites.
 

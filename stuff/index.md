@@ -4,9 +4,13 @@ layout: main.njk
 
 <h1>this is a playground</h1>
 
+<h2>Hei Torbis</h2>
+
+<h2>Ny endring</h2>
+
 okay so the entire repo is a playground
 
-really! go forth, change things and make a mess!
+really. go forth, change things and make a mess.
 
 but in case you find it easier to goof around
 somewhere explicitly marked playground
@@ -19,3 +23,7 @@ somewhere explicitly marked playground
 - delete things. put them back again if you think someone might miss the thing
 - make many random edits wherever
 - add more adventures about Git
+
+## This in an emoji :thumbsup:
+
+## This in an emoji :thumbsup:

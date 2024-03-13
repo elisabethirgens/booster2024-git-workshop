@@ -1,9 +1,9 @@
 ---
-title: Ready for your first Git interactive rebase?
+title: Ready for your first Git interactive rebase? 😎
 tags: promotedAdventure
 ---
 
-# Ready for your first Git interactive rebase?
+# Ready for your first Git interactive rebase? 😎
 
 No prior experience with interactive rebasing, and not sure why you’d ever want to?<br>
 Congrats! You have found an excellent adventure.
