@@ -8,3 +8,5 @@ tags: adventure
 Content goes here
 
 A new line to distinguis commits
+
+This is the line for the second commit
