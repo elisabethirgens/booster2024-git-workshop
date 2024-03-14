@@ -6,3 +6,5 @@ tags: adventure
 # A self made adventure for experimenting with git
 
 Content goes here
+
+A new line to distinguis commits
