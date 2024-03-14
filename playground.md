@@ -5,8 +5,9 @@ layout: main.njk
 <h1>this is a playground</h1>
 
 the entire repo is a playground
-
-really. go forth, change things and make a mess.
+the entire world is a playground
+ 
+really! go forth, change things and make a mess!
 
 but in case you find it easier to goof around
 somewhere explicitly marked playground
