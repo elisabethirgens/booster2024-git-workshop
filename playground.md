@@ -25,7 +25,7 @@ somewhere explicitly marked playground
 Cupcake ipsum dolor sit amet
 powder lollipop tart ice cream
 
-Apple pie lemon drops
+Apple pie <span style="color:yellow">lemon</span> drops
 
 Sweet halvah jelly-o topping donut sweet roll. Bear claw
 Bonbon ice cream shortbread. Wafer halvah gingerbread
