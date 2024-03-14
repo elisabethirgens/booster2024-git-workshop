@@ -19,3 +19,4 @@ somewhere explicitly marked playground
 - delete things. put them back again if you think someone might miss the thing
 - make many random edits wherever
 - add more adventures about Git
+- add some great jokes somewhere
