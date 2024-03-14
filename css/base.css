@@ -54,6 +54,7 @@ blockquote {
   padding-left: 1rem;
   padding-right: 2rem;
   margin: 0 0 1.5rem 1rem;
+  border:1px;
 }
 
 pre,
