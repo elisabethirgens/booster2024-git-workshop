@@ -4,10 +4,13 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve --watch",
     "start-bun": "bunx @11ty/eleventy --serve --watch",
-    "build": "rm -rf ./_site && npx @11ty/eleventy --pathprefix=booster2024-git-workshop"
+    "build": "rm -rf ./_site && npx @11ty/eleventy --pathprefix=booster2024-git-workshop && node -e \"console.log(require('cowsay').say({ text: 'Build complete!' }))\""
   },
   "devDependencies": {
     "@11ty/eleventy": "2.0.1",
     "prettier": "2.8.8"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
   }
 }
