@@ -45,8 +45,13 @@ Cotton candy 🍬
 <<<<<<< HEAD
 Jelly beans cupcake caramels bonbon.
 
+<<<<<<< HEAD
 Edited by T
 
 =======
 Reeses cupcake caramels bonbon.
 >>>>>>> 39b3688 (Remove test text in playground file)
+=======
+
+test
+>>>>>>> 0696dcf (Make my first contribution, wohooo)
