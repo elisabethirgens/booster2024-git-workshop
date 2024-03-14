@@ -58,3 +58,9 @@ There are so many more! Can you find any that look interesting?
 ```
 git diff -h
 ```
+Show me the diff but without a specific file:
+
+```bash
+git diff ':!package-lock.json'
+```
+- Copilot

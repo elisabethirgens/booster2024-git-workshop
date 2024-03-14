@@ -25,6 +25,8 @@ These guides from Atlassian are also nice:
 
 ---
 
+Rebasing! What a great way to learn more about Git.
+
 See also…
 
 <div class="adventure">
