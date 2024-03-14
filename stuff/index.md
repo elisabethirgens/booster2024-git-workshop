@@ -4,7 +4,13 @@ layout: main.njk
 
 <h1>this is a playground</h1>
 
-<h2>Hei Torbis</h2>
+<h2>Hei Torbis, new cool stuff</h2>
+
+<h4>carpe diem, non serviam</h4>
+
+okay so the entire repo is a playground T was here
+
+<h2>Ny endring</h2>
 
 really. go forth, change things and make a mess.
 
@@ -20,5 +26,8 @@ somewhere explicitly marked playground
 - make many random edits wherever
 - add more adventures about Git
 
-=======
+T was here
+
+## This in an emoji :thumbsup:
+
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
