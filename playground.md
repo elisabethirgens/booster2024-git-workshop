@@ -44,6 +44,7 @@ Fruitcake chocolate danish icing topping cake.
 Cotton candy 🍬
 <<<<<<< HEAD
 Jelly beans cupcake caramels bonbon.
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Edited by T
@@ -55,3 +56,6 @@ Reeses cupcake caramels bonbon.
 
 test
 >>>>>>> 0696dcf (Make my first contribution, wohooo)
+=======
+Sugar cakes banana bons.
+>>>>>>> 094416e (Making my first contribiution, woohtoo)
