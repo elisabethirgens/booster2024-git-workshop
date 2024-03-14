@@ -4,7 +4,7 @@ layout: main.njk
 
 <h1>this is a playground</h1>
 
-the entire repo is a playground
+the entire repo is NOT a playground
 
 really! go forth, change things and make a mess!
 
