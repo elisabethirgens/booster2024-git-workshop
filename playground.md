@@ -26,6 +26,17 @@ somewhere explicitly marked playground
 Cupcake ipsum dolor sit amet
 powder lollipop tart ice cream
 
+<<<<<<< HEAD
+Spicey sausages.
+
+Apple pie lemon drops
+=======
+>>>>>>> main
+
+
+Spicey sausages.
+
+Apple pie lemon drops
 
 Spicey sausages.
 
