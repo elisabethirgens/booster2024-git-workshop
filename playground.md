@@ -5,15 +5,16 @@ layout: main.njk
 <h1>this is a playground</h1>
 
 the entire repo is a playground
-
-really. go forth, change things and make a mess.
+the entire world is a playground
+ 
+really! go forth, change things and make a mess!
 
 but in case you find it easier to goof around
 somewhere explicitly marked playground
 
 <h1>THIS IS IT 🤸🏻‍♀️</h1>
 
-## but also you should totally
+## but also you shouldtotally
 
 - add new files and directories
 - delete things. put them back again if you think someone might miss the thing
@@ -43,8 +44,16 @@ Cotton candy 🍬
 Jelly beans cupcake caramels bonbon.
 
 
+
 Edited by T
 
 
 Sugar cakes banana bons.
+
+
+How do i exit vim?
+
+Edited by T
+
+
 
