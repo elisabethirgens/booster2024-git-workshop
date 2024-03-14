@@ -25,3 +25,6 @@ but other than that: no rules that I can think of.
 - create branches and open pull requests and ask someone else to review
 - or not! merge away at will if you approve yourself
 - any combination of merge commits, squashing, or rebasing is fine (try all three!)
+
+
+:bug:

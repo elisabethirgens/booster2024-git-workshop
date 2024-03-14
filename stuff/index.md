@@ -21,3 +21,5 @@ somewhere explicitly marked playground
 - add more adventures about Git
 
 ## This in an emoji :thumbsup:
+
+:bug:
