@@ -23,13 +23,14 @@ somewhere explicitly marked playground
 
 <hr>
 
-Cupcake ipsum dolor sit amet
+Cupcake 
 powder lollipop tart ice cream
 
+Apple pie lemon drops
 
 Sweet halvah jelly-o topping donut sweet roll. Bear claw
 Bonbon ice cream shortbread. Wafer halvah gingerbread
-Lemon drops icing cheesecake chocolate bar 🍫 dessert.
+Lemon drops icing cheesecake chocolate bar dessert.
 Pastry gingerbread biscuit chocolate pie
 Chocolate chocolate bar. Sugar plum candy canes
 
@@ -41,19 +42,5 @@ Tart jelly beans jelly-o. Gummies marzipan bonbon
 Fruitcake chocolate danish icing topping cake.
 
 Cotton candy 🍬
-Jelly beans cupcake caramels bonbon.
 
-
-
-Edited by T
-
-
-Sugar cakes banana bons.
-
-
-How do i exit vim?
-
-Edited by T
-
-
-Test
+Reeses cupcake caramels bonbon.
