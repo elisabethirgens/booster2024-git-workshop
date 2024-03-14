@@ -45,6 +45,7 @@ Cotton candy 🍬
 <<<<<<< HEAD
 Jelly beans cupcake caramels bonbon.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Edited by T
@@ -59,3 +60,7 @@ test
 =======
 Sugar cakes banana bons.
 >>>>>>> 094416e (Making my first contribiution, woohtoo)
+=======
+
+How do i exit vim?
+>>>>>>> 614aab8 (first commit)
