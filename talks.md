@@ -1,4 +1,7 @@
-# FOSDEM 2024
+# Talks or videos
+Add talks or anything else interesting related to Git here! 
+
+## FOSDEM 2024
 
 Recently, one of the fonuders of Github held a talk at *FOSDEM 2024* called "So You Think You Know Git?". 
 
