@@ -26,4 +26,8 @@ somewhere explicitly marked playground
 - make many random edits wherever
 - add more adventures about Git
 
+<<<<<<< HEAD
 T was here
+=======
+## This in an emoji :thumbsup:
+>>>>>>> 5c24d31 (Added a line about an emoji in the index.md file)
