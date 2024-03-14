@@ -4,7 +4,9 @@ layout: main.njk
 
 <h1>this is a playground</h1>
 
-<h2>Hei Torbis</h2>
+<h2>Hei Torbis, new cool stuff</h2>
+
+<h4>carpe diem, non serviam</h4>
 
 okay so the entire repo is a playground T was here
 
