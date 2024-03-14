@@ -1,6 +1,6 @@
 {
   "name": "booster2024-git-workshop",
-  "author": "elisabethirgens",
+  "author": "me",
   "scripts": {
     "start": "npx @11ty/eleventy --serve --watch",
     "build": "rm -rf ./_site && npx @11ty/eleventy --pathprefix=booster2024-git-workshop"
